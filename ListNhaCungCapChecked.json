@@ -1,0 +1,28 @@
+[
+  {
+    "tendangnhap": "hoanglongfood",
+    "email": "hoanglongfood@gmail.com",
+    "matkhau": "1234",
+    "ten": "Hoàng Long Food",
+    "tentat": "HLF",
+    "diachi": "12, Trần Phú, Hải châu, Đà nẵng",
+    "dienthoai": "0902181120",
+    "xacnhan": 1,
+    "quyen_id": 2,
+    "created_at": "2020-08-04T04:33:09.000Z",
+    "updated_at": "2020-08-26T04:33:09.000Z"
+  },
+  {
+    "tendangnhap": "vinmart",
+    "email": "vinmart@gmail.com",
+    "matkhau": "1234",
+    "ten": "Vinmart",
+    "tentat": "VM",
+    "diachi": "60 Thành Thái, Cẩm Lệ, Đà Nẵng",
+    "dienthoai": "0900202010",
+    "xacnhan": 1,
+    "quyen_id": 2,
+    "created_at": "2020-08-13T04:39:20.000Z",
+    "updated_at": "2020-08-27T04:39:20.000Z"
+  }
+]
